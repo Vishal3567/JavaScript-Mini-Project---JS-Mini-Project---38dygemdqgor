@@ -10,8 +10,6 @@ function Show(id)
 
 
 function Verify() {
-  var userRef = "SuperBob";
-  var passRef = "12RobotoLove";
   
   var user =  document.getElementById("username").value;
   var pass = document.getElementById("password").value;
